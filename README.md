@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Winnie Brandão
 
-<p>🎓 Sou Graduada em Ciências Contábeis e recentemente iniciei a minha transição de Carreira para a área de TI. Busco conciliar a especialização em Desenvolvedora FullStack pela Kenzie Academy Brasil, com a graduação em Ciência da Computação. Também realizo cursos na Alura e na Digital Innovation One.</p>
+<p>🎓 Sou Graduada em Ciências Contábeis e em maio/22 iniciei a minha transição de Carreira para a área de TI. Busco conciliar a especialização em Desenvolvimento FullStack pela Kenzie Academy Brasil, com a graduação em Ciência da Computação. Também realizo cursos na Digital Innovation One e Rocketseat.</p>
 <p>😄 Pronomes: Ela/Dela</p>
 
 <br>
