@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Winnie Brandão
 
-<p align="justify">🎓 Graduada em Ciências Contábeis pela Universidade Salvador com mais de 8 anos de experiência na área fiscal e <b>há mais de 6 meses iniciei a minha transição de carreira para a área de tecnologia</b>. Conclui o curso em Desenvolvimento Front-End pela Kenzie Academy Brasil, onde já aprendi e continuo aprendendo todos os dias sobre <b>HTML, CSS, JavaScript, React e TypeScript</b>, e recentemente, comecei a caminhar pelo mundo do <b>Back-end</b>, onde estou aprendendo sobre <b>PostgreSQL</b>.</p>
+<p align="justify">🎓 Graduada em Ciências Contábeis pela Universidade Salvador com mais de 8 anos de experiência na área fiscal e <b>há mais de 6 meses iniciei a minha transição de carreira para a área de tecnologia</b>. Conclui o curso em Desenvolvimento Front-End pela Kenzie Academy Brasil, onde já aprendi e continuo aprendendo todos os dias sobre <b>HTML, CSS, JavaScript, React e TypeScript</b>, e recentemente, comecei a caminhar pelo mundo do <b>Back-end</b>, onde estou aprendendo sobre <b>PostgreSQL e nodeJs</b>.</p>
 
 <p align="justify">Estou cursando <b>Ciência da Computação</b> com ênfase em Full Stack na Faculdade Descomplica, realizando a segunda parte do curso profissionalizante intensivo em <b>Desenvolvimento Full Stack</b> na Kenzie Academy Brasil, além de <i>complementar esse conhecimento adquirido</i> por meio dos <b>cursos da Origamid e Rocketseat</b>.</p>
 
