@@ -1,6 +1,13 @@
 ### Olá! Eu me chamo Winnie Brandão
 
-<p>🎓 Sou Graduada em Ciências Contábeis e em maio/22 iniciei a minha transição de Carreira para a área de TI. Busco conciliar a especialização em Desenvolvimento FullStack pela Kenzie Academy Brasil, com a graduação em Ciência da Computação. Também realizo cursos na Alura e Rocketseat.</p>
+<p>🎓 Graduada em Ciências Contábeis pela Universidade Salvador, com mais de 8 anos de experiência na área fiscal e <b>há mais de 6 meses iniciei a minha transição de carreira para a área de tecnologia</b>. Conclui o curso em Desenvolvimento Front-End pela Kenzie Academy Brasil, onde já aprendi e continuo aprendendo todos os dias sobre <b>HTML, CSS, JavaScript, React e TypeScript</b> e iniciei recentemente a caminhar pelo <b>Back-end</b>.
+
+Estou cursando <b>Ciência da Computação</b> com ênfase em Full Stack na Faculdade Descomplica, realizando a segunda parte do curso profissionalizante intensivo em <b>Desenvolvimento Full Stack</b> na Kenzie Academy Brasil, além de complementar esse conhecimento adquirido por meio dos cursos da Origamid e Rocketseat.
+
+Me considero uma pessoa organizada, proativa, determinada, curiosa e flexível, fascinada por conhecimento, com muita vontade de crescer, aprender e me aprimorar.
+
+Conhecimentos específicos: ["Git", "Github", "GitFlow", "Conventional Commits", "HTML5", "CSS3", "Mobile First", "Flexbox", "Keyframes", "Metodologia BEM", "Componentização", "JavaScript(ES6+)", "Paradigma funcional", "DOM", "Programação Orientada a Objetos (POO)", "consumo de API", "React", "Styled Components", "TypeScript"].
+</p>
 <p>😄 Pronomes: Ela/Dela</p>
 
 <br>
