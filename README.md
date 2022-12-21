@@ -53,5 +53,6 @@
   <br>
   <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/winnie-brand%C3%A3o-76750b84/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/winnie-brand%C3%A3o-76750b84/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/winnie-brand%C3%A3o-76750b84/" target="_blank"><img src="https://img.shields.io/badge/Yahoo-5C2D91?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
 </div>
