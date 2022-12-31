@@ -34,7 +34,7 @@
   </div>
   
   <div>
-    <h3> O que eu também planejo estudar: </h3>
+    <h3> O que eu também planejo aprender: </h3>
     <div>
       <img align="center" alt="wb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="wb-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
