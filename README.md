@@ -1,12 +1,13 @@
 ### Olá! Eu me chamo Winnie Brandão 👋🏼
 
-<p align="justify">Graduada em Ciências Contábeis pela Universidade Salvador com mais de 8 anos de experiência na área fiscal e <b>há mais de 6 meses iniciei a minha transição de carreira para a área de tecnologia</b>. Conclui o curso em Desenvolvimento Front-End pela Kenzie Academy Brasil, onde já aprendi e continuo aprendendo todos os dias sobre <b>HTML, CSS, JavaScript, React e TypeScript</b> e estou cursando Desenvolvimento <b>Back-end</b>, onde aprendi <b>PostgreSQL, TypeORM, nodeJs e Express</b>. Recentemente comecei a estudar <b>MongoDB, Testes Unitários e Testes de Integração</b>.
+<p align="justify">Sou <b>Desenvolvedora Front-End</b> formada pela Kenzie Academy Brasil com experiência em <b>HTML, CSS, JavaScript, React, Styled Components, TypeScript e Git</b>. Atualmente estou cursando Desenvolvimento <b>Back-end</b>, onde já aprendi </b>PostgreSQL, NodeJs, Express, TypeORM, Jest (testes de integração e unitários)</b> e recentemente comecei a estudar <b>MongoDB</b>.
+</b>.
 
-<p align="justify">Estou cursando <b>Ciência da Computação</b> com ênfase em Full Stack na Faculdade Descomplica, realizando a segunda parte do curso profissionalizante intensivo em <b>Desenvolvimento Full Stack</b> na Kenzie Academy Brasil, além de <i>complementar esse conhecimento adquirido</i> por meio dos <b>cursos da Origamid, Rocketseat e Udemy</b>.</p>
+<p align="justify">Também estou cursando <b>Ciência da Computação</b> com ênfase em Full Stack na Faculdade Descomplica e <i>complementando o conhecimento</i> por meio dos <b>cursos da Origamid, Rocketseat e Udemy</b>.</p>
 
 <p align="justify">Me considero uma pessoa organizada, proativa, determinada, curiosa e flexível, fascinada por conhecimento, com muita vontade de crescer, aprender e me aprimorar.</p>
 
-<p align="justify"><b>Conhecimentos específicos</b>: ["Git", "Github", "GitFlow", "Conventional Commits", "HTML5", "CSS3", "Mobile First", "Flexbox", "Keyframes", "Metodologia BEM", "Componentização", "JavaScript(ES6+)", "Paradigma funcional", "DOM", "Programação Orientada a Objetos (POO)", "consumo de API", "React", "Styled Components", "TypeScript", "Metodologias Ágeis (Scrum)", "PostgreSQL", "NodeJs", "Express", "TypeORM"].
+<p align="justify"><b>Conhecimentos adicionais</b>: Metodologias Ágeis (Scrum e Kanban), Figma, VS Code, Github, DBeaver.
 </p>
 <p>😄 Pronomes: Ela/Dela</p>
 
