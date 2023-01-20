@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Winnie Brandão 👋🏼
 
-<p align="justify">Sou <b>Desenvolvedora Front-End</b> formada pela Kenzie Academy Brasil com experiência em <b>HTML, CSS, JavaScript, React, Styled Components, TypeScript e Git</b>. Atualmente estou cursando Desenvolvimento <b>Back-end</b>, onde já aprendi </b>PostgreSQL, NodeJs, Express, TypeORM, Jest (testes de integração e unitários)</b> e recentemente comecei a estudar <b>MongoDB</b>.
+<p align="justify">Sou <b>Desenvolvedora Front-End</b> formada pela Kenzie Academy Brasil com experiência em <b>HTML, CSS, JavaScript, React, Styled Components, TypeScript e Git</b>. Atualmente estou cursando Desenvolvimento <b>Back-end</b>, onde já aprendi </b>PostgreSQL, NodeJs, Express, TypeORM, Jest (testes de integração e unitários)</b> e recentemente comecei a estudar <b>MongoDB e Python</b>.
 </b>.
 
 <p align="justify">Também estou cursando <b>Ciência da Computação</b> com ênfase em Full Stack na Faculdade Descomplica e <i>complementando o conhecimento</i> por meio dos <b>cursos da Origamid, Rocketseat e Udemy</b>.</p>
