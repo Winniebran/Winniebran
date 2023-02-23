@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Winnie Brandão 👋🏼
 
-<p align="justify">Sou <b>Desenvolvedora Front-End</b> formada pela Kenzie Academy Brasil com experiência em <b>HTML, CSS, JavaScript, React, Styled Components, TypeScript e Git</b>. Atualmente estou cursando Desenvolvimento <b>Back-end</b>, onde já aprendi </b>PostgreSQL, NodeJs, Express, TypeORM, Jest (testes de integração e unitários)</b> e recentemente comecei a estudar <b>MongoDB e Python</b>.
+<p align="justify">Sou <b>Desenvolvedora Front-End</b> formada pela Kenzie Academy Brasil com experiência em <b>HTML, CSS, JavaScript, React, Styled Components, TypeScript e Git</b>. Atualmente estou cursando Desenvolvimento <b>Back-end</b>, onde já aprendi </b>PostgreSQL, NodeJs, Express, TypeORM, Jest (testes de integração e unitários)</b> e recentemente comecei a estudar <b>MongoDB, Python e Django</b>.
 </b>
 
 <p align="justify">Também estou cursando <b>Ciência da Computação</b> com ênfase em Full Stack na Faculdade Descomplica e <i>complementando o conhecimento</i> por meio dos <b>cursos da Origamid, Rocketseat e Udemy</b>.</p>
@@ -42,12 +42,14 @@
     <h3> O que eu também planejo aprender: </h3>
     <div>
       <img align="center" alt="wb-Angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+      <img align="center" alt="wb-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
       <img align="center" alt="wb-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
       <img align="center" alt="wb-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
       <img align="center" alt="wb-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img align="center" alt="wb-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-      <img align="center" alt="wb-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-      <img align="center" alt="wb-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+      <img align="center" alt="wb-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      <img align="center" alt="wb-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+      <img align="center" alt="wb-nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   </div>
     
   </div>
