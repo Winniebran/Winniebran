@@ -7,7 +7,7 @@
 
 <p align="justify">Me considero uma pessoa organizada, proativa, determinada, curiosa e flexível, fascinada por conhecimento, com muita vontade de crescer, aprender e me aprimorar.</p>
 
-<p align="justify"><b>Conhecimentos adicionais</b>: Metodologias Ágeis (Scrum e Kanban), Figma, VS Code, Github, DBeaver.
+<p align="justify"><b>Conhecimentos adicionais</b>: Metodologias Ágeis (Scrum e Kanban), Figma, VS Code, Github, DBeaver, Jira.
 </p>
 <p>😄 Pronomes: Ela/Dela</p>
 
