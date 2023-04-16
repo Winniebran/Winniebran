@@ -1,14 +1,15 @@
 ### Olá! Eu me chamo Winnie Brandão 👋🏼
 
-<p align="justify">Sou <b>Desenvolvedora Front-End</b> formada pela Kenzie Academy Brasil com experiência em <b>HTML, CSS, JavaScript, React, Styled Components, TypeScript e Git</b>. Atualmente estou cursando Desenvolvimento <b>Back-end</b>, onde já aprendi </b>PostgreSQL, NodeJs, Express, TypeORM, Jest (testes de integração e unitários), Python, Django</b> e recentemente comecei a estudar <b>MongoDB.</b>.
-</b>
+<p align="justify"> Sou Desenvolvedora Front End formada pela Kenzie Academy Brasil. Tenho um sólido conhecimento em HTML, CSS, JavaScript, TypeScript, bem como em bibliotecas como React e Styled Components. Além disso, possuo experiência em trabalhar com Git, design responsivo e metodologias ágeis, como Scrum e Kanban. </p>
 
-<p align="justify">Também estou cursando <b>Ciência da Computação</b> com ênfase em Full Stack na Faculdade Descomplica e <i>complementando o conhecimento</i> por meio dos <b>cursos da Origamid, Rocketseat e Udemy</b>.</p>
+<p align="justify"> Atualmente, estou aprimorando ainda mais minhas habilidades em Desenvolvimento Back-end e já adquiri conhecimentos valiosos em PostgreSQL, NodeJs, Express, TypeORM, Jest, Python e Django. Além disso, comecei recentemente a estudar MongoDB, aumentando ainda mais a minha habilidade em bancos de dados. As minhas competências incluem a construção de APIs RESTful, a integração de APIs, Programação Orientada a Objeto, bem como testes de integração e unitários. </p>
 
-<p align="justify">Me considero uma pessoa organizada, proativa, determinada, curiosa e flexível, fascinada por conhecimento, com muita vontade de crescer, aprender e me aprimorar.</p>
+<p align="justify"> Para além das minhas habilidades técnicas, possuo excelentes habilidades interpessoais e de comunicação. Estou comprometida em trabalhar de forma colaborativa em equipe e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. </p>
 
-<p align="justify"><b>Conhecimentos adicionais</b>: Metodologias Ágeis (Scrum e Kanban), Figma, VS Code, Github, DBeaver, Jira.
-</p>
+<p align="justify"> Apesar do meu nível de inglês ser básico, estou empenhada em melhorar as minhas habilidades de comunicação em idiomas estrangeiros. Possuo nível básico-intermediário de espanhol e básico de francês.  </p>
+
+<p align="justify"> Conhecimentos adicionais: Figma, VS Code, Github, DBeaver, Jira. </p>
+
 <p>😄 Pronomes: Ela/Dela</p>
 
 <br>
