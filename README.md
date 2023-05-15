@@ -1,14 +1,16 @@
 ### Olá! Eu me chamo Winnie Brandão 👋🏼
 
-<p align="justify"> Sou Desenvolvedora Front End formada pela Kenzie Academy Brasil. Tenho um sólido conhecimento em HTML, CSS, JavaScript, TypeScript, bem como em bibliotecas como React e Styled Components. Além disso, possuo experiência em trabalhar com Git, design responsivo e metodologias ágeis, como Scrum e Kanban. </p>
+<p align="justify"> Sou uma Desenvolvedora Full Stack formada pela Kenzie Academy Brasil, com um amplo conhecimento em tecnologias de front-end, como HTML, CSS, JavaScript e TypeScript. Tenho experiência sólida no desenvolvimento de interfaces de usuário atraentes e responsivas, utilizando bibliotecas populares como React e Styled Components. Também possuo prática com Git e metodologias ágeis, como Scrum e Kanban.</p>
 
-<p align="justify"> Atualmente, estou aprimorando ainda mais minhas habilidades em Desenvolvimento Back-end e já adquiri conhecimentos valiosos em PostgreSQL, NodeJs, Express, TypeORM, Jest, Python e Django. Além disso, comecei recentemente a estudar MongoDB, aumentando ainda mais a minha habilidade em bancos de dados. As minhas competências incluem a construção de APIs RESTful, a integração de APIs, Programação Orientada a Objeto, bem como testes de integração e unitários. </p>
+<p align="justify"> Além disso, possuo habilidades no desenvolvimento de aplicações back-end, trabalhando com PostgreSQL, Node.js, Express, TypeORM, Jest, Python e Django, permitindo-me construir APIs RESTful de alta qualidade e escaláveis. Tenho experiência em integração de APIs externas, aplicação de conceitos de Programação Orientada a Objetos e realização de testes de integração e unitários para garantir a robustez das minhas soluções. </p>
+
+<p align="justify"> Recentemente, iniciei meus estudos em MongoDB, expandindo ainda mais minha expertise em bancos de dados. Com a formação em Full Stack, sou capaz de criar aplicações completas, desde o desenvolvimento do front-end até o back-end, proporcionando uma experiência de usuário fluida e uma arquitetura sólida. </p>
 
 <p align="justify"> Para além das minhas habilidades técnicas, possuo excelentes habilidades interpessoais e de comunicação. Estou comprometida em trabalhar de forma colaborativa em equipe e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. </p>
 
-<p align="justify"> Apesar do meu nível de inglês ser básico, estou empenhada em melhorar as minhas habilidades de comunicação em idiomas estrangeiros. Possuo nível básico-intermediário de espanhol e básico de francês.  </p>
+<p align="justify"> Apesar do meu nível de inglês ser básico, estou empenhada em melhorar as minhas habilidades de comunicação em idiomas estrangeiros. Possuo nível básico-intermediário de espanhol e básico de francês. </p>
 
-<p align="justify"> Conhecimentos adicionais: Figma, VS Code, Github, DBeaver, Jira. </p>
+<p align="justify"> Conhecimentos adicionais: Figma, VS Code, Github, DBeaver, Jira, trello. </p>
 
 <p>😄 Pronomes: Ela/Dela</p>
 
