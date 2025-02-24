@@ -1,14 +1,16 @@
 ### Olá! Eu me chamo Winnie Brandão 👋🏼
 
-<p align="justify"> Sou uma Desenvolvedora Full Stack formada pela Kenzie Academy Brasil, com um amplo conhecimento em tecnologias de front-end, como HTML, CSS, JavaScript e TypeScript. Tenho experiência sólida no desenvolvimento de interfaces de usuário atraentes e responsivas, utilizando bibliotecas populares como React e Styled Components. Também possuo prática com Git e metodologias ágeis, como Scrum e Kanban.</p>
 
-<p align="justify"> Além disso, possuo habilidades no desenvolvimento de aplicações back-end, trabalhando com PostgreSQL, Node.js, Express, TypeORM, Jest, Python e Django, permitindo-me construir APIs RESTful de alta qualidade e escaláveis. Tenho experiência em integração de APIs externas, aplicação de conceitos de Programação Orientada a Objetos e realização de testes de integração e unitários para garantir a robustez das minhas soluções. </p>
 
-<p align="justify"> Recentemente, iniciei meus estudos em MongoDB, expandindo ainda mais minha expertise em bancos de dados. Com a formação em Full Stack, sou capaz de criar aplicações completas, desde o desenvolvimento do front-end até o back-end, proporcionando uma experiência de usuário fluida e uma arquitetura sólida. </p>
 
-<p align="justify"> Para além das minhas habilidades técnicas, possuo excelentes habilidades interpessoais e de comunicação. Estou comprometida em trabalhar de forma colaborativa em equipe e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. </p>
 
-<p align="justify"> Apesar do meu nível de inglês ser básico, estou empenhada em melhorar as minhas habilidades de comunicação em idiomas estrangeiros. Possuo nível básico-intermediário de espanhol e básico de francês. </p>
+
+<p align="justify"> Sou uma Desenvolvedora Full Stack formada pela Kenzie Academy Brasil, com um amplo conhecimento em tecnologias de front-end, como HTML, CSS, JavaScript e TypeScript. Tenho experiência sólida no desenvolvimento de interfaces de usuário atraentes e responsivas, utilizando bibliotecas populares como React, Styled Components e Tailwind. Possuo prática na construção de componentes reutilizáveis e estilizados com o shadcn, otimizando a experiência do usuário. Também tenho experiência com Git e metodologias ágeis, como Scrum e Kanban. </p>
+
+<p align="justify"> Além disso, possuo habilidades no desenvolvimento de aplicações back-end, trabalhando com PostgreSQL, Node.js, Express, TypeORM e Jest, permitindo-me construir APIs RESTful de alta qualidade e escaláveis. Tenho experiência em integração de APIs externas, aplicação de conceitos de Programação Orientada a Objetos e realização de testes de integração e unitários para garantir a robustez das minhas soluções. Recentemente, iniciei meus estudos em React Native, expandindo minhas competências para o desenvolvimento de aplicações móveis, que me permitirão criar soluções que atendem tanto ao ambiente web quanto ao mobile. </p>
+
+<p align="justify"> Para além das minhas habilidades técnicas, possuo excelentes habilidades interpessoais e de comunicação. Estou comprometida em trabalhar de forma colaborativa em equipe e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Apesar do meu nível de inglês ser básico, estou empenhada em melhorar as minhas habilidades de comunicação em idiomas estrangeiros.
+</p>
 
 <p align="justify"> Conhecimentos adicionais: Figma, VS Code, Github, DBeaver, Jira, trello. </p>
 
@@ -35,9 +37,6 @@
       <img align="center" alt="wb-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
       <img align="center" alt="wb-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
       <img align="center" alt="wb-PostgreeSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-      <img align="center" alt="wb-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-      <img align="center" alt="wb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="wb-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
       <img align="center" alt="wb-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
       <img align="center" alt="wb-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     </div>
@@ -51,7 +50,7 @@
       <img align="center" alt="wb-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
       <img align="center" alt="wb-nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
       <img align="center" alt="wb-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" />
-      <img align="center" alt="wb-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />    
+      <img align="center" alt="wb-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />    
       <img align="center" alt="wb-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
       <img align="center" alt="wb-kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
       <img align="center" alt="wb-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /> 
